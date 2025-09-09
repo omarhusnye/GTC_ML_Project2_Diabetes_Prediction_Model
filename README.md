@@ -103,5 +103,6 @@ print("Prediction:", prediction[0])  # 0 = Non-Diabetic, 1 = Diabetic
 
 ## 👨‍💻 Author
 **Omar Hosni**  
+
 - 💼 [LinkedIn](https://www.linkedin.com/)  
 - 🐙 [GitHub](https://github.com/)
